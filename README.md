@@ -1,3 +1,3 @@
 # corejava
 Core JAVA works.
-Author Aayush
+Author Aayush Manandhar
