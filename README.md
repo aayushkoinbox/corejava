@@ -1,2 +1,2 @@
 # corejava
-Core JAVA works
+Core JAVA works.
