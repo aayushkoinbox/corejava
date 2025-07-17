@@ -1,0 +1,6 @@
+Employee Name: Rashmila Shakya
+Employee ID: 100
+Address: Chettrapati
+DOB: 2004-03-28
+Phone number: 9847484911
+
