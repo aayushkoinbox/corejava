@@ -1,3 +1,4 @@
+//ques no 7
 import java.util.Scanner;
 public class arraysum{
 public static void main(String[] args){

@@ -1,3 +1,4 @@
+//question no12
 //thread1
 class ThreadA implements Runnable{
   public void run(){

@@ -1,3 +1,4 @@
+// ques    no 9
     import java.util.Scanner;
     public class summatrices{
 

@@ -1,3 +1,4 @@
+// // Question no 2
 import java.util.Scanner;
 
 public class sumn{
