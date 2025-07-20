@@ -24,9 +24,9 @@ if (arr[j] > arr[j+1]){
 
 }
 }
-
+System.out.print("Ascesding:");
 for(int a:arr){
-System.out.print("Ascesding: "+a + ", ");
+System.out.print(a + ", ");
 
 }
  System.out.print("\n ");
@@ -34,9 +34,9 @@ for(j=0;j<n; j++){
     arrn[j]=arr[n-1-j];
 
 }
-
+System.out.print("Descending: ");
 for(int d:arrn){
-System.out.print("Descending: "+d + ", ");
+System.out.print(d + ", ");
 
 }
 
